@@ -1,0 +1,124 @@
+{
+	"name": "mez-editor",
+	"displayName": "mez-editor",
+	"description": "",
+	"version": "0.19.0",
+	"publisher": "meziantou",
+	"repository": {
+		"type": "git",
+		"url": "https://dev.azure.com/meziantou/Meziantou.Site/_git/Meziantou.Site.VSCodeExtension"
+	},
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onLanguage:markdown",
+		"onCommand:mez-editor.new-post",
+		"onCommand:mez-editor.preview-site",
+		"onCommand:mez-editor.publish-site",
+		"onCommand:mez-editor.video-optimize-for-web",
+		"onCommand:mez-editor.video-remove-audio"
+	],
+	"main": "./out/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "mez-editor.new-post",
+				"title": "Blog: New post"
+			},
+			{
+				"command": "mez-editor.publish-site",
+				"title": "Blog: Publish"
+			},
+			{
+				"command": "mez-editor.preview-site",
+				"title": "Blog: Preview"
+			},
+			{
+				"command": "mez-editor.video-optimize-for-web",
+				"title": "Blog: Optimize video for web"
+			},
+			{
+				"command": "mez-editor.video-remove-audio",
+				"title": "Blog: Remove audio tracks"
+			}
+		],
+		"menus": {
+			"explorer/context": [
+				{
+					"command": "mez-editor.video-optimize-for-web",
+					"group": "Blog@1",
+					"when": "resourceLangId == mezvideo_file"
+				},
+				{
+					"command": "mez-editor.video-remove-audio",
+					"group": "Blog@1",
+					"when": "resourceLangId == mezvideo_file"
+				},
+				{
+					"command": "mez-editor.preview-site",
+					"group": "Blog@1",
+					"when": "resourceLangId == mezsite_file"
+				},
+				{
+					"command": "mez-editor.new-post",
+					"group": "Blog@1",
+					"when": "resourceLangId == mezsite_file"
+				},
+				{
+					"command": "mez-editor.publish-site",
+					"group": "Blog@1",
+					"when": "resourceLangId == mezsite_file"
+				}
+			]
+		},
+		"languages": [
+			{
+				"id": "mezvideo_file",
+				"extensions": [
+					".mp4"
+				]
+			},
+			{
+				"id": "mezsite_file",
+				"filenames": [
+					"_site.yml"
+				]
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"pretest": "npm run compile",
+		"test": "node ./out/test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/js-yaml": "^3.12.1",
+		"@types/glob": "^7.1.1",
+		"@types/mocha": "^5.2.7",
+		"@types/node": "^13.1.8",
+		"@types/vscode": "^1.41.0",
+		"glob": "^7.1.6",
+		"mocha": "^7.0.0",
+		"typescript": "^3.7.5",
+		"tslint": "^5.20.1",
+		"vscode-test": "^1.3.0"
+	},
+	"dependencies": {
+		"@types/request": "^2.48.4",
+		"front-matter": "^4.0.0",
+		"js-yaml": "^3.13.1",
+		"node-stream-zip": "^1.9.1",
+		"request": "^2.88.0"
+	},
+	"__metadata": {
+		"id": "dbdf3f47-12fd-4cf6-b1dd-2641608ed5af",
+		"publisherId": "4b01d7da-8906-4224-a36f-2c8661c06177",
+		"publisherDisplayName": "Meziantou"
+	}
+}

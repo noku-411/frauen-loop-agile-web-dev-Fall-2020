@@ -1,0 +1,5 @@
+<operationRecords><operationRecord><operation>KANC::</operation><data><time>1607436126</time><operationType>2</operationType><sapVersionPairs><sapVersionPair><sapCode>KANC</sapCode><version>2.0.1</version></sapVersionPair></sapVersionPairs></data>
+	</operationRecord><operationRecord><operation>KANC::2.0.1</operation><data><time>1607436126</time><operationType>2</operationType><sapVersionPairs><sapVersionPair><sapCode>KANC</sapCode><version>2.0.1</version></sapVersionPair></sapVersionPairs></data>
+	</operationRecord><operationRecord><operation>SPRK::</operation><data><time>1607436129</time><operationType>2</operationType><sapVersionPairs><sapVersionPair><sapCode>SPRK</sapCode><version>35.2.12</version></sapVersionPair></sapVersionPairs></data>
+	</operationRecord><operationRecord><operation>SPRK::37.1.32</operation><data><time>1614588070</time><operationType>0</operationType><sapVersionPairs><sapVersionPair><sapCode>SPRK</sapCode><version>37.1.32</version></sapVersionPair><sapVersionPair><sapCode>CCXP</sapCode><version>4.2.8</version></sapVersionPair></sapVersionPairs></data>
+	</operationRecord></operationRecords>

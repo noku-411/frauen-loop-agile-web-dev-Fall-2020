@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20451c50-9eff-45cc-bd60-20c65731d5dd" name="Default Changelist" comment="重命名" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature-typescript" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1dL8fl7cciOauCXb0YaVqI18nVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="&#10;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="D:\Projects\react-proptypes-generate\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\react-proptypes-generate\examples\src" />
+      <recent name="D:\Projects\react-proptypes-generate\examples\child" />
+      <recent name="D:\Projects\react-proptypes-generate\scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\react-proptypes-generate\examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="cli.js" type="NodeJSConfigurationType" application-parameters="fix child/index.js" nameIsGenerated="true" path-to-js-file="../bin/cli.js" working-dir="$PROJECT_DIR$/examples">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.cli.js" />
+      <item itemvalue="npm.start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20451c50-9eff-45cc-bd60-20c65731d5dd" name="Default Changelist" comment="" />
+      <created>1592193117977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592193117977</updated>
+      <workItem from="1592193119385" duration="8845000" />
+      <workItem from="1592269526718" duration="6739000" />
+      <workItem from="1594087671770" duration="2516000" />
+      <workItem from="1594102019141" duration="153000" />
+      <workItem from="1594102180274" duration="9000" />
+      <workItem from="1594102206758" duration="2478000" />
+      <workItem from="1594609760631" duration="8214000" />
+      <workItem from="1594694835998" duration="6189000" />
+      <workItem from="1594728686434" duration="69000" />
+      <workItem from="1594728776568" duration="5000" />
+      <workItem from="1594728799495" duration="40000" />
+      <workItem from="1595207671269" duration="4953000" />
+      <workItem from="1595301760866" duration="8530000" />
+      <workItem from="1595315507822" duration="7383000" />
+      <workItem from="1595323788570" duration="4970000" />
+      <workItem from="1595466563452" duration="4759000" />
+      <workItem from="1598837606598" duration="2925000" />
+      <workItem from="1598840707191" duration="1356000" />
+      <workItem from="1598922388064" duration="40000" />
+      <workItem from="1599016293819" duration="603000" />
+      <workItem from="1599707069851" duration="1493000" />
+      <workItem from="1603071441316" duration="11437000" />
+      <workItem from="1603161150022" duration="3291000" />
+      <workItem from="1603175212258" duration="5530000" />
+      <workItem from="1603181685777" duration="462000" />
+      <workItem from="1603182212300" duration="1891000" />
+      <workItem from="1603184146848" duration="96000" />
+      <workItem from="1603184501181" duration="1223000" />
+      <workItem from="1603244229502" duration="3717000" />
+      <workItem from="1608110552102" duration="3032000" />
+      <workItem from="1608170728874" duration="2062000" />
+      <workItem from="1610413533212" duration="4134000" />
+      <workItem from="1610500098292" duration="5646000" />
+      <workItem from="1610506414962" duration="79000" />
+      <workItem from="1610507641505" duration="13607000" />
+      <workItem from="1610602365224" duration="513000" />
+      <workItem from="1610602927207" duration="9019000" />
+      <workItem from="1611048178783" duration="1279000" />
+      <workItem from="1611566930123" duration="512000" />
+      <workItem from="1611623518287" duration="3818000" />
+      <workItem from="1611627390183" duration="3316000" />
+      <workItem from="1611630860061" duration="320000" />
+      <workItem from="1611631311895" duration="7589000" />
+      <workItem from="1611973217916" duration="3434000" />
+      <workItem from="1612082689345" duration="1230000" />
+      <workItem from="1612492873233" duration="1764000" />
+    </task>
+    <task id="LOCAL-00010" summary="修改demo">
+      <created>1595311422468</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595311422468</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修复递归方法">
+      <created>1595311446987</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1595311446987</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1.支持高阶组件&#10;2.支持命令行批量生成&#10;3.支持Typescript">
+      <created>1595322896590</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1595322896590</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update Doc and Fixed #11">
+      <created>1595326201368</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1595326201368</updated>
+    </task>
+    <task id="LOCAL-00014" summary="更新文档">
+      <created>1595466592811</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1595466592811</updated>
+    </task>
+    <task id="LOCAL-00015" summary="更新文档">
+      <created>1595487847697</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1595487847697</updated>
+    </task>
+    <task id="LOCAL-00016" summary="更新文档">
+      <created>1595488206327</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1595488206327</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fixed #15">
+      <created>1598839163876</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1598839163876</updated>
+    </task>
+    <task id="LOCAL-00018" summary="添加changlog">
+      <created>1598840796215</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1598840796215</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update doc">
+      <created>1598922414909</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1598922414910</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fixed #16">
+      <created>1603086634337</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1603086634337</updated>
+    </task>
+    <task id="LOCAL-00021" summary="命令行支持分号和项目配置文件">
+      <created>1603178048522</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1603178048522</updated>
+    </task>
+    <task id="LOCAL-00022" summary="支持lint-stage">
+      <created>1603179394976</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1603179394976</updated>
+    </task>
+    <task id="LOCAL-00023" summary="修改报错提示">
+      <created>1603181339489</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1603181339489</updated>
+    </task>
+    <task id="LOCAL-00024" summary="修复插件路径">
+      <created>1603182097933</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1603182097933</updated>
+    </task>
+    <task id="LOCAL-00025" summary="修复PropType节点bug">
+      <created>1603183118712</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1603183118712</updated>
+    </task>
+    <task id="LOCAL-00026" summary="修复分号问题">
+      <created>1603183384154</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1603183384154</updated>
+    </task>
+    <task id="LOCAL-00027" summary="添加lint-stage">
+      <created>1603244627061</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1603244627061</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix doc">
+      <created>1603244755519</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603244755519</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fix doc">
+      <created>1603244812866</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1603244812866</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add lint-stage 介绍">
+      <created>1603246162985</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1603246162985</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fix doc">
+      <created>1603246184823</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1603246184823</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fix doc">
+      <created>1603246242561</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1603246242561</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix doc">
+      <created>1603246572031</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1603246572031</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix doc">
+      <created>1603246638141</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1603246638141</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix lint stage bug">
+      <created>1608171917819</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1608171917819</updated>
+    </task>
+    <task id="LOCAL-00036" summary="支持注释保留">
+      <created>1610530879543</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1610530879543</updated>
+    </task>
+    <task id="LOCAL-00037" summary="修复插件在vscode上的不过">
+      <created>1610604969525</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1610604969525</updated>
+    </task>
+    <task id="LOCAL-00038" summary="支持glob表达式遍历文件">
+      <created>1610610538988</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1610610538988</updated>
+    </task>
+    <task id="LOCAL-00039" summary="delete message">
+      <created>1610611084287</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1610611084287</updated>
+    </task>
+    <task id="LOCAL-00040" summary="添加保持注释的文档">
+      <created>1610611698901</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1610611698901</updated>
+    </task>
+    <task id="LOCAL-00041" summary="fix glob match">
+      <created>1611049012858</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1611049012858</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update 1.7.1‘s doc">
+      <created>1611049113256</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1611049113256</updated>
+    </task>
+    <task id="LOCAL-00043" summary="测试example的钩子">
+      <created>1611623950578</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1611623950578</updated>
+    </task>
+    <task id="LOCAL-00044" summary="测试example的钩子">
+      <created>1611624006938</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1611624006938</updated>
+    </task>
+    <task id="LOCAL-00045" summary="修复lint-stage的bug">
+      <created>1611625839885</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1611625839885</updated>
+    </task>
+    <task id="LOCAL-00046" summary="修复函数组件的bug">
+      <created>1611627245367</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1611627245367</updated>
+    </task>
+    <task id="LOCAL-00047" summary="支持赋值组件">
+      <created>1611630301070</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1611630301070</updated>
+    </task>
+    <task id="LOCAL-00048" summary="整理example文件">
+      <created>1611630314513</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1611630314513</updated>
+    </task>
+    <task id="LOCAL-00049" summary="整理example文件">
+      <created>1611630319275</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1611630319275</updated>
+    </task>
+    <task id="LOCAL-00050" summary="整理example文件">
+      <created>1611630452995</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1611630452995</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fix path">
+      <created>1611630476229</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1611630476229</updated>
+    </task>
+    <task id="LOCAL-00052" summary="throw err">
+      <created>1611630633594</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1611630633594</updated>
+    </task>
+    <task id="LOCAL-00053" summary="更新版本号">
+      <created>1611630701639</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1611630701639</updated>
+    </task>
+    <task id="LOCAL-00054" summary="友好报错提示">
+      <created>1611631097398</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1611631097398</updated>
+    </task>
+    <task id="LOCAL-00055" summary="添加noDiffMergeOld">
+      <created>1611633513280</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1611633513280</updated>
+    </task>
+    <task id="LOCAL-00056" summary="fix err">
+      <created>1611633663024</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1611633663024</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fix 'arrayOf', 'objectOf', 'instanceOf', 'oneOfType'">
+      <created>1611974771693</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1611974771694</updated>
+    </task>
+    <task id="LOCAL-00058" summary="重命名">
+      <created>1612493398263</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1612493398263</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Projects/react-proptypes-generate/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修复分号问题" />
+    <MESSAGE value="添加lint-stage" />
+    <MESSAGE value="add lint-stage 介绍" />
+    <MESSAGE value="fix doc" />
+    <MESSAGE value="fix lint stage bug" />
+    <MESSAGE value="支持注释保留" />
+    <MESSAGE value="修复插件在vscode上的不过" />
+    <MESSAGE value="支持glob表达式遍历文件" />
+    <MESSAGE value="delete message" />
+    <MESSAGE value="添加保持注释的文档" />
+    <MESSAGE value="fix glob match" />
+    <MESSAGE value="update 1.7.1‘s doc" />
+    <MESSAGE value="测试example的钩子" />
+    <MESSAGE value="修复lint-stage的bug" />
+    <MESSAGE value="修复函数组件的bug" />
+    <MESSAGE value="支持赋值组件" />
+    <MESSAGE value="整理example文件" />
+    <MESSAGE value="fix path" />
+    <MESSAGE value="throw err" />
+    <MESSAGE value="更新版本号" />
+    <MESSAGE value="友好报错提示" />
+    <MESSAGE value="添加noDiffMergeOld" />
+    <MESSAGE value="fix err" />
+    <MESSAGE value="fix 'arrayOf', 'objectOf', 'instanceOf', 'oneOfType'" />
+    <MESSAGE value="重命名" />
+    <option name="LAST_COMMIT_MESSAGE" value="重命名" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611973232691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611973232691" />
+    <state x="-894" y="250" width="745" height="596" key="#xdebugger.evaluate" timestamp="1611627947205">
+      <screen x="-1080" y="-356" width="1080" height="1880" />
+    </state>
+    <state x="-894" y="250" width="745" height="596" key="#xdebugger.evaluate/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611627947205" />
+    <state width="904" height="466" key="DebuggerActiveHint" timestamp="1611628427475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611628427475" />
+    <state x="184" y="86" width="1727" height="860" key="DiffContextDialog" timestamp="1612494192212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" width="1727" height="860" key="DiffContextDialog/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1612494192212" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608171462873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1608171462873" />
+    <state width="949" height="195" key="GridCell.Tab.0.bottom" timestamp="1611987313855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313855" />
+    <state width="949" height="195" key="GridCell.Tab.0.center" timestamp="1611987313855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313855" />
+    <state width="949" height="195" key="GridCell.Tab.0.left" timestamp="1611987313855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313855" />
+    <state width="949" height="195" key="GridCell.Tab.0.right" timestamp="1611987313855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313855" />
+    <state width="949" height="195" key="GridCell.Tab.1.bottom" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.1.center" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.1.left" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.1.right" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.2.bottom" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.2.center" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.2.center/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.2.left" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.2.left/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.2.right" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.2.right/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.3.bottom" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.3.center" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.3.center/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.3.left" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.3.left/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state width="949" height="195" key="GridCell.Tab.3.right" timestamp="1611987313856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="195" key="GridCell.Tab.3.right/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611987313856" />
+    <state x="762" y="221" key="RollbackChangesDialog" timestamp="1612494053835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="221" key="RollbackChangesDialog/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1612494053835" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1611630025730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611630025730" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612494193298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1612494193298" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1610530533263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1610530533263" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610611097025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1610611097025" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1611623728027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611623728027" />
+    <state x="-1080" y="141" width="1080" height="813" key="find.popup" timestamp="1612493381212">
+      <screen x="-1080" y="-356" width="1080" height="1880" />
+    </state>
+    <state x="-1080" y="141" width="1080" height="813" key="find.popup/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1612493381212" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611635447390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1080.-356.1080.1880@0.0.1920.1040" timestamp="1611635447390" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="targetNames" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
